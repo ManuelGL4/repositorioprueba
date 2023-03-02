@@ -5,5 +5,4 @@ public class ClaseDos {
 		System.out.println("GitHub ENDES Clase dos");
 
 	}
-
 }
